@@ -1,6 +1,6 @@
 student, assignment, submission status
-Patric,CS101,submitted
-Yvan,CS102,not submitted
-Claude,CS103,submitted
-Mugabo,CS104,not submitted
-Peter,CS105,submitted
+GAMA,CS101,submitted
+Luffy,CS102,not submitted
+Aomine,CS103,submitted
+Naruto,CS104,not submitted
+Sakura,CS105,submitted

@@ -21,11 +21,11 @@ fi
 # Check if the student records are already in submissions.txt
 if ! grep -q "Patric,CS101,submitted" submission_reminder_app/assets/submissions.txt; then
     # Add 5 student records to the correct submissions.txt file in assets
-    echo "Patric,CS101,submitted" >> submission_reminder_app/assets/submissions.txt
-    echo "yvan,CS102,not submitted" >> submission_reminder_app/assets/submissions.txt
-    echo "Claude,CS103,submitted" >> submission_reminder_app/assets/submissions.txt
-    echo "Mugabo,CS104,not submitted" >> submission_reminder_app/assets/submissions.txt
-    echo "Peter,CS105,submitted" >> submission_reminder_app/assets/submissions.txt
+    echo "GAMA,CS101,submitted" >> submission_reminder_app/assets/submissions.txt
+    echo "Luffy,CS102,not submitted" >> submission_reminder_app/assets/submissions.txt
+    echo "Aomine,CS103,submitted" >> submission_reminder_app/assets/submissions.txt
+    echo "Naruto,CS104,not submitted" >> submission_reminder_app/assets/submissions.txt
+    echo "Sakura,CS105,submitted" >> submission_reminder_app/assets/submissions.txt
 fi
 
 # Optional: Add an image file
