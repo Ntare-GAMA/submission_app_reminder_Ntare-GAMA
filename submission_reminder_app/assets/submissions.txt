@@ -1,6 +1,0 @@
-student, assignment, submission status
-GAMA,CS101,submitted
-Luffy,CS102,not submitted
-Aomine,CS103,submitted
-Naruto,CS104,not submitted
-Sakura,CS105,submitted
